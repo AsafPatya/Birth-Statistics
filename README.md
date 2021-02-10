@@ -6,6 +6,11 @@ Contains 3 columns:
 2. Name
 3. Min
 4. The number of babies born with this name.
+
+
+
+
+
 First the names of the babies of the female sex appear, and then the names of the babies of the male sex appear.
 The project realizes functions whose role is for example:
 1. Presenting the number of births in any year
