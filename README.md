@@ -1,5 +1,5 @@
 # Birth-Statistics
-This project uses information about baby names born in the US between 1880-2014.
+This project uses information about baby names born in the US between 1880-1900.
 Each year there is a separate CSV file that contains information about girls and boys together. Any such file,
 Contains 3 columns:
 
