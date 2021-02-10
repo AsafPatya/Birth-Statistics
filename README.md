@@ -7,7 +7,7 @@ Contains 3 columns:
 
 2. Name
 
-3. Min
+3. Gander
 
 4. The number of babies born with this name.
 
